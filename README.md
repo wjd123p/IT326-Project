@@ -7,7 +7,7 @@ This project aims to analyze student data to address the challenge of understand
 * In addition, clustering methods are used to group students with similar characteristics and study habits, helping to uncover hidden patterns and common student profiles within the data. By combining these approaches, the project provides meaningful insights into student performance and supports data-driven decision making in education.
 
 * **Project Motivation:**
-We chose this topic (predicting student academic performance) because understanding the factors related to students' success is important for improving education. By using classification techniques and clustering methods, we can analyze students' study habits, academic background, and other characteristics to identify different performance patterns. Analyzing multiple student attributes can help in understanding differences in academic performance and identifying students with similar characteristics. This project provides a practical application of data mining techniques in the field of education and demonstrates how data can be used to gain useful insights into student performance.
+We chose this topic because we wanted to understand what factors can affect students’ academic performance. Students have different study habits, academic backgrounds, and characteristics, which may be related to their performance. By using classification and clustering techniques, we can find patterns in the data and group students with similar characteristics. This project also gives us a chance to apply data mining techniques to a real-life problem in education and see how data can help us understand student performance.
 
 * **Team Members:**
   * Wajd Al-Otaibi*
